@@ -1,0 +1,65 @@
+body {
+    background: black;
+    color: darkred;
+    margin:0px;
+    font-family: "Bokor", system-ui;
+      margin-bottom: 100px;
+}
+
+header {
+  border-bottom: solid 4px purple;
+color: brown;
+  padding: 20px;
+  font-size: x-large;
+}
+
+.acabapeloamordeDeus {
+   padding-bottom: 80px;
+    background-color:blueviolet;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.foda-se {
+margin-right: 20px;
+
+}
+
+h1 {
+font-size: 50px;
+
+
+}
+
+img {
+    height: 300px ;
+
+}
+
+.filmassodapoha {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.deumerda{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+
+}
+.filmassodapoha img {
+opacity: 0,5;
+height: 200px;
+
+}
+
+.filmassodapoha img:hover {
+opacity: 1,0;
+
+}
+
+.deumerda h2 {
+    color: brown;
+}
